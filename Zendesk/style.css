@@ -15,7 +15,7 @@ body {
   min-height: 100%;
   min-width: 320px;
   background-color: $color_5;
-  color: $color_3;
+  color: #73a0b3;
   font-family: "Raleway", $font_2;
   font-size: 16px;
   font-weight: 400;
@@ -42,6 +42,7 @@ h6 {
 
 h1, h2 {
   font-family: "Abel";
+  color: #73a0b3;
 }
 
 h1 {
@@ -55,6 +56,7 @@ h2 {
 h3 {
   font-size: 18px;
   font-weight: 600;
+  color: #73a0b3;
 }
 
 h4 {
@@ -239,7 +241,7 @@ input[type="submit"] {
   background-color: $color_1;
   border: 0;
   border-radius: 4px;
-  color: $color_2;
+  color: #003247;
   font-size: 14px;
   font-weight: 400;
   line-height: 2.72;
@@ -1068,7 +1070,7 @@ main {
   padding: 16px 10px;
   border-radius: 3px;
   background: #F8F8F8;
-  color: #666;
+  color: #003247;
   font-size: 18px;
   text-align: center;
   font-weight: 600;
@@ -1785,8 +1787,8 @@ main {
 
 .sidenav-item.current-article,
 .sidenav-item:hover {
-  background-color: $color_1;
-  color: $color_2;
+  background-color: #F8F8F8;
+  color: #003247;
   text-decoration: none;
   font-weight: 600;
 }
@@ -2376,12 +2378,12 @@ main {
 
 .community-follow [role="button"][aria-selected="true"] {
   background-color: $color_1;
-  color: $color_2;
+  color: #003247;
 }
 
 .community-follow [role="button"][aria-selected="true"]::after {
   border-left: 1px solid $color_2;
-  color: $color_2;
+  color: #003247;
 }
 
 .community-follow [role="button"][aria-selected="true"]:hover {
@@ -3259,7 +3261,7 @@ main {
 .subscriptions-unsubscribe a {
   background: $color_1;
   border-radius: 4px;
-  color: $color_2;
+  color: #003247;
   display: inline-block;
   font-size: 12px;
   line-height: 2.34;
@@ -3860,7 +3862,7 @@ main {
 .profile-header .options [data-action="edit-profile"] {
   background-color: $color_1;
   border: 0;
-  color: $color_2;
+  color: #003247;
   line-height: normal;
   padding: 8px 20px;
 }
