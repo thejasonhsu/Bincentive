@@ -1,5 +1,5 @@
 {
-  "name": "Copenhagen",
+  "name": "Jason",
   "author": "Zendesk",
   "version": "0.0.1",
   "api_version": 1,
@@ -12,42 +12,42 @@
           "type": "color",
           "description": "Brand color for major navigational elements",
           "label": "Brand color",
-          "value": "#7B7B7B"
+          "value": "rgba(115, 160, 179, 1)"
         },
         {
           "identifier": "color_skip",
           "type": "color",
           "description": "Make thing ugly",
           "label": "Skip color",
-          "value": "#11f1f1"
+          "value": "rgba(115, 160, 179, 1)"
         },
         {
           "identifier": "color_2",
           "type": "color",
           "description": "Brand color for hover and active states",
           "label": "Brand text color",
-          "value": "#404040"
+          "value": "rgba(115, 160, 179, 1)"
         },
         {
           "identifier": "body_text",
           "type": "color",
           "description": "Text color for body and heading elements",
           "label": "Text color",
-          "value": "#333333"
+          "value": "rgba(115, 160, 179, 1)"
         },
         {
           "identifier": "color_4",
           "type": "color",
           "description": "Text color for link elements",
           "label": "Link color",
-          "value": "#1A74B0"
+          "value": "rgba(115, 160, 179, 1)"
         },
         {
           "identifier": "color_5",
           "type": "color",
           "description": "Background color of your Help Center",
           "label": "Background color",
-          "value": "#FFFFFF"
+          "value": "rgba(0, 50, 71, 1)"
         }
       ]
     },
