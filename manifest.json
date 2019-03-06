@@ -33,14 +33,14 @@
           "type": "color",
           "description": "Text color for body and heading elements",
           "label": "Text color",
-          "value": "rgba(115, 160, 179, 1)"
+          "value": "rgba(226, 231, 234, 1)"
         },
         {
           "identifier": "color_4",
           "type": "color",
           "description": "Text color for link elements",
           "label": "Link color",
-          "value": "rgba(115, 160, 179, 1)"
+          "value": "rgba(226, 231, 234, 1)"
         },
         {
           "identifier": "color_5",

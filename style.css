@@ -15,7 +15,7 @@ body {
   min-height: 100%;
   min-width: 320px;
   background-color: $color_5;
-  color: #73a0b3;
+  color: #e2e7ea;
   font-family: Gill Sans, Gill Sans MT, Noto Sans TC, Noto Sans SC Sliced, Calibri, Trebuchet MS, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -34,15 +34,15 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+h7 {
   font-family: Gill Sans, Gill Sans MT, Noto Sans TC, Noto Sans SC Sliced, Calibri, Trebuchet MS, sans-serif;
   font-weight: 400;
   margin-top: 0;
 }
 
 h1, h2 {
-  font-family: Gill Sans, Gill Sans MT, Noto Sans TC, Noto Sans SC Sliced, Calibri, Trebuchet MS, sans-serif;
-  color: #73a0b3;
+  color: #e2e7ea;
 }
 
 h1 {
@@ -56,11 +56,16 @@ h2 {
 h3 {
   font-size: 18px;
   font-weight: 600;
-  color: #73a0b3;
+  color: #e2e7ea;
 }
 
 h4 {
   font-size: 16px;
+}
+
+h7 {
+  font-size: 32px;
+  color: #003247;
 }
 
 a {
@@ -714,7 +719,7 @@ main {
   text-align: center;
 }
 
-.subfooter h1 {
+.subfooter h7 {
   font-size: 24px;
 }
 
@@ -747,7 +752,7 @@ main {
     padding: 60px 20px 80px;
   }
 
-  .subfooter h1 {
+  .subfooter h7 {
     font-size: 32px;
   }
 }
@@ -1678,8 +1683,8 @@ main {
 
 .article-vote {
   background: transparent;
-  border: 1px solid $color_1;
-  color: $color_1;
+  border: 1px solid #e2e7ea;
+  color: #e2e7ea;
   margin: 10px 5px;
   min-width: 90px;
   width: auto;
