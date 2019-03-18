@@ -15,7 +15,7 @@ body {
   min-height: 100%;
   min-width: 320px;
   background-color: $color_5;
-  color: #e2e7ea;
+  color: #ffffff;
   font-family: Gill Sans, Gill Sans MT, Noto Sans TC, Noto Sans SC Sliced, Calibri, Trebuchet MS, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -42,7 +42,7 @@ h7 {
 }
 
 h1, h2 {
-  color: #e2e7ea;
+  color: #ffffff;
 }
 
 h1 {
@@ -56,7 +56,7 @@ h2 {
 h3 {
   font-size: 18px;
   font-weight: 600;
-  color: #e2e7ea;
+  color: #ffffff;
 }
 
 h4 {
@@ -1403,7 +1403,7 @@ main {
 
 .section-tree-title a {
   font-weight: 400;
-  color: $color_4;
+  color: #73a0b3;
 }
 
 .see-all-articles {
@@ -1683,8 +1683,8 @@ main {
 
 .article-vote {
   background: transparent;
-  border: 1px solid #e2e7ea;
-  color: #e2e7ea;
+  border: 1px solid #ffffff;
+  color: #ffffff;
   margin: 10px 5px;
   min-width: 90px;
   width: auto;
