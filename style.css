@@ -1408,7 +1408,8 @@ main {
 
 .see-all-articles {
   font-weight: 600;
-  color: #333;
+  color: #FFFFFF;
+  text-decoration: underline;
 }
 
 .section-tree .see-all-articles {
